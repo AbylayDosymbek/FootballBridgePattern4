@@ -1,4 +1,3 @@
-//puv
 public class ConsoleDisplay implements DisplayMethod {
 
     @Override
